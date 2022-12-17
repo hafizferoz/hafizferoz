@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafizferoz
 - 👀 I’m interested in java and blockchain related projects
-- 🌱 I’m currently learning BSC and ETH smart contracts and optimization of hashing algorithm. 
-- 💞️ I’m looking to collaborate on blockchain and cryptocurrency projects
+- 🌱 I’m currently researching on andriod/angular ionic projects. 
+- 💞️ I’m looking to collaborate on ecommerce projects
 - 📫 YOu can reach me at hafizferoz@gmail.com
 
 <!---
